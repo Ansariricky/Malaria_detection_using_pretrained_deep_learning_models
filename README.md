@@ -31,7 +31,7 @@ Malaria Detection Portal is a Streamlit-based web application that leverages dee
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/malaria-detection-ai.git](https://github.com/Ansariricky/Malaria_detection_using_pretrained_deep_learning_models.git
+   git clone https://github.com/yourusername/malaria-detection-ai.git](https://github.com/Ansariricky/Malaria_detection_using_pretrained_deep_learning_models.git)
    cd malaria-multi-model-app
 
 2.Create virtual environment:
