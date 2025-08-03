@@ -32,7 +32,25 @@ Malaria Detection AI is a Streamlit-based web application that leverages deep le
    python -m venv venv
    source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 ```
-3.
+3.Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+```
+4.Launch the app:
+   ```bash
+   streamlit run app.py
+```
+
+## Folder Structure
+
+├── models/
+│   ├── MobileNetV2.h5
+│   └── InceptionV3.h5
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+
 
 
 
