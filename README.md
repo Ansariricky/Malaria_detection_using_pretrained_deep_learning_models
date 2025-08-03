@@ -2,7 +2,7 @@
 
 ## Overview
 
-Malaria Detection AI is a Streamlit-based web application that leverages deep learning models to classify blood smear images as **Parasitized** or **Uninfected**. The app utilizes pre-trained convolutional neural networks (MobileNetV2 and InceptionV3) for accurate prediction and provides Grad-CAM visualizations to explain model decisions, enhancing interpretability and trust.
+Malaria Detection Portal is a Streamlit-based web application that leverages deep learning models to classify blood smear images as **Parasitized** or **Uninfected**. The app utilizes pre-trained convolutional neural networks (MobileNetV2 and InceptionV3) for accurate prediction and provides Grad-CAM visualizations to explain model decisions, enhancing interpretability and trust.
 
 > **Note:** This tool is intended for **educational and research purposes only** and should not be used as a medical diagnostic tool.
 
@@ -18,7 +18,14 @@ Malaria Detection AI is a Streamlit-based web application that leverages deep le
 - Informative UI designed for accessibility and user engagement.
 
 ---
+## Tech Stack
+- Python 3.10+
+- TensorFlow / Keras
+- OpenCV
+- NumPy, Matplotlib, scikit-learn
+- Streamlit (for app interface)
 
+---
 ## Installation
 
 1. Clone the repository:
@@ -41,6 +48,12 @@ Malaria Detection AI is a Streamlit-based web application that leverages deep le
    streamlit run app.py
 ```
 
+---
+## Demo
+![App Screenshot]()<img width="1886" height="887" alt="Screenshot 2025-08-04 005957" src="https://github.com/user-attachments/assets/fbd65085-cbd8-43c1-8a4b-5d2f47fc4f0a" />
+
+
+---
 ## Folder Structure
 
 ```bash
@@ -54,9 +67,16 @@ malaria-multi-model-app/
 ├── InceptionV3.h5
 └── MobileNetV2.h5
 
-
-
 ```
 
+---
+## Authors
+   This project was developed as part of a research internship under the guidance of Jadavpur University.
+   * Rekibuddin Ansari – [LinkedIn](www.linkedin.com/in/rekibuddin-ansari-447772279) | [GitHub](https://github.com/Ansariricky)
+---
 
-
+## Future Work
+   * Deploy to the Cloud(e.g. Streamlit Cloud/ HuggingFace Spaces)
+   * Expand to multi-class classification (other blood-related diseases)
+   
+---
