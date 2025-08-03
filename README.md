@@ -44,7 +44,17 @@ Malaria Detection AI is a Streamlit-based web application that leverages deep le
 ## Folder Structure
 
 ```bash
-   malaria-multi-model-app/models/
+  ª   .gitignore
+ª   app.py
+ª   folder-structure.txt
+ª   README.md
+ª   requirements.txt
+ª   
++---models
+        InceptionV3.h5
+        MobileNetV2.h5
+        
+
 ```
 
 
