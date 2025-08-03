@@ -24,5 +24,15 @@ Malaria Detection AI is a Streamlit-based web application that leverages deep le
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/malaria-detection-ai.git
-   cd malaria-detection-ai
+   git clone https://github.com/yourusername/malaria-detection-ai.git](https://github.com/Ansariricky/Malaria_detection_using_pretrained_deep_learning_models.git
+   cd malaria-multi-model-app
+
+2.Create virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: .\venv\Scripts\activate
+```
+3.
+
+
+
