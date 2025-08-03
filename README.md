@@ -81,5 +81,7 @@ malaria-multi-model-app/
 ## Future Work
    * Deploy to the Cloud(e.g. Streamlit Cloud/ HuggingFace Spaces)
    * Expand to multi-class classification (other blood-related diseases)
+   * Evaluate other CNN architectures like EfficientNet, DenseNet, or custom CNNs for performance comparison.
+   * Write a research paper based on the methodology, experiments, and results and submit to a journal or conference.
    
 ---
