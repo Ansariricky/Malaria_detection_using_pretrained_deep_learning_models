@@ -44,7 +44,10 @@ Malaria Detection AI is a Streamlit-based web application that leverages deep le
 ## Folder Structure
 
 ```bash
-  ª   .gitignore
+ (Folder PATH listing for volume pc's volume
+Volume serial number is DA01-B111
+J:.
+ª   .gitignore
 ª   app.py
 ª   folder-structure.txt
 ª   README.md
@@ -54,6 +57,7 @@ Malaria Detection AI is a Streamlit-based web application that leverages deep le
         InceptionV3.h5
         MobileNetV2.h5
         
+)
 
 ```
 
