@@ -50,8 +50,11 @@ Malaria Detection Portal is a Streamlit-based web application that leverages dee
 
 ---
 ## Demo
-![App Screenshot]()<img width="1886" height="887" alt="Screenshot 2025-08-04 005957" src="https://github.com/user-attachments/assets/fbd65085-cbd8-43c1-8a4b-5d2f47fc4f0a" />
+<img width="1886" height="887" alt="Screenshot 2025-08-04 005957" src="https://github.com/user-attachments/assets/fbd65085-cbd8-43c1-8a4b-5d2f47fc4f0a" />
 
+Here the blood smear images is uploaded and results are calculated based on the model chosen and image data.
+
+<img width="1877" height="855" alt="Screenshot 2025-08-04 010048" src="https://github.com/user-attachments/assets/21d19fff-81d6-441d-8bb1-b76b62de991d" />
 
 ---
 ## Folder Structure
