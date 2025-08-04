@@ -48,6 +48,7 @@ Malaria Detection Portal is a Streamlit-based web application that leverages dee
    streamlit run app.py
 ```
 
+> **Note:** Download the model files from the link provided in the model.md file 
 ---
 ## Demo
 <img width="1886" height="887" alt="Screenshot 2025-08-04 005957" src="https://github.com/user-attachments/assets/fbd65085-cbd8-43c1-8a4b-5d2f47fc4f0a" />
